@@ -3,16 +3,16 @@
   <groupId>org.apache.gluten</groupId>
   <artifactId>gluten-parent</artifactId>
   <versioning>
-    <lastUpdated>20250309035115</lastUpdated>
+    <lastUpdated>20250309040101</lastUpdated>
     <snapshot>
-      <timestamp>20250309.035115</timestamp>
+      <timestamp>20250309.040101</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.0-20250309.035115-1</value>
-        <updated>20250309035115</updated>
+        <value>1.4.0-20250309.040101-1</value>
+        <updated>20250309040101</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
