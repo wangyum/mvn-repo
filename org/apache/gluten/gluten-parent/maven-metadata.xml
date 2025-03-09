@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.gluten</groupId>
+  <artifactId>gluten-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250309033950</lastUpdated>
+  </versioning>
+</metadata>
