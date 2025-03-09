@@ -3,27 +3,27 @@
   <groupId>org.apache.gluten</groupId>
   <artifactId>gluten-package</artifactId>
   <versioning>
-    <lastUpdated>20250309120123</lastUpdated>
+    <lastUpdated>20250309120303</lastUpdated>
     <snapshot>
-      <timestamp>20250309.120123</timestamp>
+      <timestamp>20250309.120303</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.0-20250309.120123-1</value>
-        <updated>20250309120123</updated>
+        <value>1.4.0-20250309.120303-1</value>
+        <updated>20250309120303</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4.0-20250309.120123-1</value>
-        <updated>20250309120123</updated>
+        <value>1.4.0-20250309.120303-1</value>
+        <updated>20250309120303</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>3.5</classifier>
         <extension>jar</extension>
-        <value>1.4.0-20250309.120123-1</value>
-        <updated>20250309120123</updated>
+        <value>1.4.0-20250309.120303-1</value>
+        <updated>20250309120303</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
