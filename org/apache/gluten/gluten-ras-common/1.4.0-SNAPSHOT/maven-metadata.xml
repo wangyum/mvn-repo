@@ -3,39 +3,39 @@
   <groupId>org.apache.gluten</groupId>
   <artifactId>gluten-ras-common</artifactId>
   <versioning>
-    <lastUpdated>20250309053825</lastUpdated>
+    <lastUpdated>20250309054052</lastUpdated>
     <snapshot>
-      <timestamp>20250309.053825</timestamp>
+      <timestamp>20250309.054052</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.0-20250309.053825-1</value>
-        <updated>20250309053825</updated>
+        <value>1.4.0-20250309.054052-1</value>
+        <updated>20250309054052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4.0-20250309.053825-1</value>
-        <updated>20250309053825</updated>
+        <value>1.4.0-20250309.054052-1</value>
+        <updated>20250309054052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>1.4.0-20250309.053825-1</value>
-        <updated>20250309053825</updated>
+        <value>1.4.0-20250309.054052-1</value>
+        <updated>20250309054052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>3.5</classifier>
         <extension>jar</extension>
-        <value>1.4.0-20250309.053825-1</value>
-        <updated>20250309053825</updated>
+        <value>1.4.0-20250309.054052-1</value>
+        <updated>20250309054052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.4.0-20250309.053825-1</value>
-        <updated>20250309053825</updated>
+        <value>1.4.0-20250309.054052-1</value>
+        <updated>20250309054052</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
