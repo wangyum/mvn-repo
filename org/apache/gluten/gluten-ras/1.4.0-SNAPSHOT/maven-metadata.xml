@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.gluten</groupId>
+  <artifactId>gluten-ras</artifactId>
+  <versioning>
+    <lastUpdated>20250309035115</lastUpdated>
+    <snapshot>
+      <timestamp>20250309.035115</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.0-20250309.035115-1</value>
+        <updated>20250309035115</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>1.4.0-20250309.035115-1</value>
+        <updated>20250309035115</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>3.5</classifier>
+        <extension>jar</extension>
+        <value>1.4.0-20250309.035115-1</value>
+        <updated>20250309035115</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.4.0-SNAPSHOT</version>
+</metadata>
