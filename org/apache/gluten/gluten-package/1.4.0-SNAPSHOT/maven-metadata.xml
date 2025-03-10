@@ -3,33 +3,33 @@
   <groupId>org.apache.gluten</groupId>
   <artifactId>gluten-package</artifactId>
   <versioning>
-    <lastUpdated>20250309122311</lastUpdated>
+    <lastUpdated>20250310054826</lastUpdated>
     <snapshot>
-      <timestamp>20250309.122311</timestamp>
+      <timestamp>20250310.054826</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4.0-20250309.122311-1</value>
-        <updated>20250309122311</updated>
+        <value>1.4.0-20250310.054826-1</value>
+        <updated>20250310054826</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4.0-20250309.122311-1</value>
-        <updated>20250309122311</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>3.5</classifier>
-        <extension>jar</extension>
-        <value>1.4.0-20250309.122311-1</value>
-        <updated>20250309122311</updated>
+        <value>1.4.0-20250310.054826-1</value>
+        <updated>20250310054826</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.4.0-20250309.122311-1</value>
-        <updated>20250309122311</updated>
+        <value>1.4.0-20250310.054826-1</value>
+        <updated>20250310054826</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>3.5</classifier>
+        <extension>jar</extension>
+        <value>1.4.0-20250310.054826-1</value>
+        <updated>20250310054826</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
